@@ -4,7 +4,7 @@ const dashboards = [
         title: "Oscar Awards Explorer",
         description: "Explore 97 years of Academy Award winners and nominations through an interactive timeline and search tool powered by real data.",
         image: "img/oscar-awards.jpg",
-        link: "OpenDataDashboards/dashboards/oscar-awards/index.html"
+        link: "dashboards/oscar-awards/index.html"
     },
     {
         title: "COVID-19 World Statistics",
