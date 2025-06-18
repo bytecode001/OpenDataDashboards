@@ -10,7 +10,7 @@ Browse, explore, and gain insights from public data — all dashboards are free 
 
 ## Live Demo
 
-[👉 Explore the dashboards!]
+[👉 Explore the dashboards!](https://bytecode001.github.io/OpenDataDashboards/)
 
 ## How it works
 
